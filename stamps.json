@@ -71,7 +71,8 @@
     "year": 1992,
     "page": "https://rusmarka.ru/catalog/marki/position/12884.aspx",
     "categories": [
-      "История"
+      "История",
+      "Наука и образование"
     ],
     "name": "750 лет Ледовому побоищу.",
     "shape": {
@@ -172,7 +173,9 @@
     "year": 1992,
     "page": "https://rusmarka.ru/catalog/marki/position/12889.aspx",
     "categories": [
-      "История"
+      "История",
+      "Наука и образование",
+      "Персоны"
     ],
     "name": "500-летие открытия Америки.",
     "shape": {
@@ -663,6 +666,7 @@
     "year": 1992,
     "page": "https://rusmarka.ru/catalog/marki/position/12900.aspx",
     "categories": [
+      "Персоны",
       "Религия"
     ],
     "name": "Древнее искусство.",
@@ -1120,7 +1124,8 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12919.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Русский балет. К 175-летию со дня рождения М.И. Петипа.",
     "name": "Портрет Мариуса Петипа. Сцены из балетов",
@@ -1137,7 +1142,8 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12919.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Русский балет. К 175-летию со дня рождения М.И. Петипа.",
     "name": "Спящая красавица",
@@ -1154,7 +1160,8 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12919.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Русский балет. К 175-летию со дня рождения М.И. Петипа.",
     "name": "Лебединое озеро",
@@ -1171,7 +1178,8 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12919.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Русский балет. К 175-летию со дня рождения М.И. Петипа.",
     "name": "Раймонда",
@@ -1224,7 +1232,8 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12923.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Герои детских произведений К.И. Чуковского.",
     "name": "Мойдодыр",
@@ -1241,7 +1250,8 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12923.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Герои детских произведений К.И. Чуковского.",
     "name": "Тараканище",
@@ -1258,7 +1268,8 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12923.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Герои детских произведений К.И. Чуковского.",
     "name": "Муха-цокотуха",
@@ -1275,7 +1286,8 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12923.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Герои детских произведений К.И. Чуковского.",
     "name": "Айболит",
@@ -1292,7 +1304,8 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12923.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Герои детских произведений К.И. Чуковского.",
     "name": "Бармалей",
@@ -1326,7 +1339,9 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12925.aspx",
     "categories": [
-      "История"
+      "Военная техника",
+      "История",
+      "Праздники"
     ],
     "name": "С праздником Победы!",
     "shape": {
@@ -2017,6 +2032,9 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12942.aspx",
     "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны",
       "Транспорт"
     ],
     "series": "Русские кораблестроители. К 300-летию Российского флота.",
@@ -2034,6 +2052,9 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12942.aspx",
     "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны",
       "Транспорт"
     ],
     "series": "Русские кораблестроители. К 300-летию Российского флота.",
@@ -2051,6 +2072,9 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12942.aspx",
     "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны",
       "Транспорт"
     ],
     "series": "Русские кораблестроители. К 300-летию Российского флота.",
@@ -2068,6 +2092,9 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12942.aspx",
     "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны",
       "Транспорт"
     ],
     "series": "Русские кораблестроители. К 300-летию Российского флота.",
@@ -2085,6 +2112,9 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12942.aspx",
     "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны",
       "Транспорт"
     ],
     "series": "Русские кораблестроители. К 300-летию Российского флота.",
@@ -2102,6 +2132,9 @@
     "year": 1993,
     "page": "https://rusmarka.ru/catalog/marki/position/12942.aspx",
     "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны",
       "Транспорт"
     ],
     "series": "Русские кораблестроители. К 300-летию Российского флота.",
@@ -3237,7 +3270,9 @@
     "year": 1994,
     "page": "https://rusmarka.ru/catalog/marki/position/12967.aspx",
     "categories": [
-      "История"
+      "История",
+      "Наука и образование",
+      "Персоны"
     ],
     "series": "К 300-летию Российского флота. Географические экспедиции.",
     "name": "В.М.Головнин",
@@ -3254,7 +3289,9 @@
     "year": 1994,
     "page": "https://rusmarka.ru/catalog/marki/position/12967.aspx",
     "categories": [
-      "История"
+      "История",
+      "Наука и образование",
+      "Персоны"
     ],
     "series": "К 300-летию Российского флота. Географические экспедиции.",
     "name": "И.Ф.Крузенштерн",
@@ -3271,7 +3308,9 @@
     "year": 1994,
     "page": "https://rusmarka.ru/catalog/marki/position/12967.aspx",
     "categories": [
-      "История"
+      "История",
+      "Наука и образование",
+      "Персоны"
     ],
     "series": "К 300-летию Российского флота. Географические экспедиции.",
     "name": "Ф.П.Врангель",
@@ -3288,7 +3327,9 @@
     "year": 1994,
     "page": "https://rusmarka.ru/catalog/marki/position/12967.aspx",
     "categories": [
-      "История"
+      "История",
+      "Наука и образование",
+      "Персоны"
     ],
     "series": "К 300-летию Российского флота. Географические экспедиции.",
     "name": "Ф.П.Литке",
@@ -3384,7 +3425,9 @@
     "value": 300,
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12971.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "name": "М.И. Кутузов. К 250-летию со дня рождения.",
     "shape": {
       "type": "rect",
@@ -3638,7 +3681,8 @@
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12979.aspx",
     "categories": [
-      "История"
+      "История",
+      "Праздники"
     ],
     "series": "50 лет Победы в Великой Отечественной войне.",
     "name": "Ялтинская конференция",
@@ -3655,7 +3699,8 @@
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12979.aspx",
     "categories": [
-      "История"
+      "История",
+      "Праздники"
     ],
     "series": "50 лет Победы в Великой Отечественной войне.",
     "name": "Берлинская операция",
@@ -3672,7 +3717,8 @@
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12979.aspx",
     "categories": [
-      "История"
+      "История",
+      "Праздники"
     ],
     "series": "50 лет Победы в Великой Отечественной войне.",
     "name": "Освобождение узников концлагерей",
@@ -3689,7 +3735,8 @@
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12979.aspx",
     "categories": [
-      "История"
+      "История",
+      "Праздники"
     ],
     "series": "50 лет Победы в Великой Отечественной войне.",
     "name": "Могила Неизвестного солдата",
@@ -3706,7 +3753,8 @@
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12979.aspx",
     "categories": [
-      "История"
+      "История",
+      "Праздники"
     ],
     "series": "50 лет Победы в Великой Отечественной войне.",
     "name": "Перфорация гребенчатая 12½х12",
@@ -3723,7 +3771,8 @@
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12979.aspx",
     "categories": [
-      "История"
+      "История",
+      "Праздники"
     ],
     "series": "50 лет Победы в Великой Отечественной войне.",
     "name": "Маньчжурская операция",
@@ -3740,7 +3789,8 @@
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12979.aspx",
     "categories": [
-      "История"
+      "История",
+      "Праздники"
     ],
     "series": "50 лет Победы в Великой Отечественной войне.",
     "name": "Парад Победы. Маршал Г.Жуков",
@@ -4108,7 +4158,9 @@
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12985.aspx",
     "categories": [
+      "История",
       "Культура и искусство",
+      "Праздники",
       "Регионы",
       "Религия"
     ],
@@ -4451,7 +4503,11 @@
     "value": 1000,
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12994.aspx",
-    "categories": [],
+    "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны"
+    ],
     "series": "История Российского государства.",
     "shape": {
       "type": "rect",
@@ -4465,7 +4521,11 @@
     "value": 1000,
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12994.aspx",
-    "categories": [],
+    "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны"
+    ],
     "series": "История Российского государства.",
     "name": "Александр Невский",
     "shape": {
@@ -4480,7 +4540,11 @@
     "value": 1000,
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12994.aspx",
-    "categories": [],
+    "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны"
+    ],
     "series": "История Российского государства.",
     "name": "Михаил Ярославич",
     "shape": {
@@ -4495,7 +4559,11 @@
     "value": 1000,
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12994.aspx",
-    "categories": [],
+    "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны"
+    ],
     "series": "История Российского государства.",
     "name": "Дмитрий Донской",
     "shape": {
@@ -4510,7 +4578,11 @@
     "value": 1000,
     "year": 1995,
     "page": "https://rusmarka.ru/catalog/marki/position/12994.aspx",
-    "categories": [],
+    "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны"
+    ],
     "series": "История Российского государства.",
     "name": "Иван III Васильевич",
     "shape": {
@@ -4527,6 +4599,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/12995.aspx",
     "categories": [
       "Наука и образование",
+      "Персоны",
       "Серии"
     ],
     "name": "Лауреаты Нобелевской премии. Н.Н. Семенов.",
@@ -4755,7 +4828,9 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13000.aspx",
     "categories": [
+      "История",
       "Культура и искусство",
+      "Праздники",
       "Регионы"
     ],
     "name": "850 лет Туле.",
@@ -4772,6 +4847,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13001.aspx",
     "categories": [
+      "История",
       "Транспорт"
     ],
     "series": "История отечественного трамвая.",
@@ -4789,6 +4865,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13001.aspx",
     "categories": [
+      "История",
       "Транспорт"
     ],
     "series": "История отечественного трамвая.",
@@ -4806,6 +4883,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13001.aspx",
     "categories": [
+      "История",
       "Транспорт"
     ],
     "series": "История отечественного трамвая.",
@@ -4823,6 +4901,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13001.aspx",
     "categories": [
+      "История",
       "Транспорт"
     ],
     "series": "История отечественного трамвая.",
@@ -4840,6 +4919,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13001.aspx",
     "categories": [
+      "История",
       "Транспорт"
     ],
     "series": "История отечественного трамвая.",
@@ -4857,6 +4937,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13001.aspx",
     "categories": [
+      "История",
       "Транспорт"
     ],
     "series": "История отечественного трамвая.",
@@ -4876,6 +4957,7 @@
     "categories": [
       "История",
       "Наука и образование",
+      "Персоны",
       "Серии"
     ],
     "series": "Знаменитые женщины России. Выпуск по программе \"Европа\".",
@@ -4895,6 +4977,7 @@
     "categories": [
       "История",
       "Наука и образование",
+      "Персоны",
       "Серии"
     ],
     "series": "Знаменитые женщины России. Выпуск по программе \"Европа\".",
@@ -4912,6 +4995,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13003.aspx",
     "categories": [
+      "Государство и власть",
       "Международное сотрудничество"
     ],
     "name": "50 лет Детскому фонду ООН (ЮНИСЕФ).",
@@ -5222,6 +5306,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13008.aspx",
     "categories": [
+      "Военная техника",
       "История",
       "Транспорт"
     ],
@@ -5240,6 +5325,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13008.aspx",
     "categories": [
+      "Военная техника",
       "История",
       "Транспорт"
     ],
@@ -5258,6 +5344,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13008.aspx",
     "categories": [
+      "Военная техника",
       "История",
       "Транспорт"
     ],
@@ -5276,6 +5363,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13008.aspx",
     "categories": [
+      "Военная техника",
       "История",
       "Транспорт"
     ],
@@ -5294,6 +5382,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13008.aspx",
     "categories": [
+      "Военная техника",
       "История",
       "Транспорт"
     ],
@@ -5312,6 +5401,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13008.aspx",
     "categories": [
+      "Военная техника",
       "История",
       "Транспорт"
     ],
@@ -5329,6 +5419,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13008.aspx",
     "categories": [
+      "Военная техника",
       "История",
       "Транспорт"
     ],
@@ -5346,6 +5437,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13008.aspx",
     "categories": [
+      "Военная техника",
       "История",
       "Транспорт"
     ],
@@ -5363,6 +5455,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13008.aspx",
     "categories": [
+      "Военная техника",
       "История",
       "Транспорт"
     ],
@@ -5380,7 +5473,8 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13009.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Балеты А.А. Горского.",
     "shape": {
@@ -5396,7 +5490,8 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13009.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Балеты А.А. Горского.",
     "name": "Малый лист 2х3",
@@ -5413,7 +5508,8 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13009.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Балеты А.А. Горского.",
     "shape": {
@@ -5429,7 +5525,8 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13009.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Персоны"
     ],
     "series": "Балеты А.А. Горского.",
     "shape": {
@@ -5669,6 +5766,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13015.aspx",
     "categories": [
+      "История",
       "Спорт"
     ],
     "series": "50 лет отечественному хоккею.",
@@ -5685,6 +5783,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13015.aspx",
     "categories": [
+      "История",
       "Спорт"
     ],
     "series": "50 лет отечественному хоккею.",
@@ -5701,6 +5800,7 @@
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13015.aspx",
     "categories": [
+      "История",
       "Спорт"
     ],
     "series": "50 лет отечественному хоккею.",
@@ -5716,7 +5816,11 @@
     "value": 1500,
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13016.aspx",
-    "categories": [],
+    "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны"
+    ],
     "series": "История Российского государства.",
     "name": "Василий III",
     "shape": {
@@ -5731,7 +5835,11 @@
     "value": 1500,
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13016.aspx",
-    "categories": [],
+    "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны"
+    ],
     "series": "История Российского государства.",
     "name": "Иван IV Грозный",
     "shape": {
@@ -5746,7 +5854,11 @@
     "value": 1500,
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13016.aspx",
-    "categories": [],
+    "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны"
+    ],
     "series": "История Российского государства.",
     "name": "Федор Иоанович",
     "shape": {
@@ -5761,7 +5873,11 @@
     "value": 1500,
     "year": 1996,
     "page": "https://rusmarka.ru/catalog/marki/position/13016.aspx",
-    "categories": [],
+    "categories": [
+      "История",
+      "Наука и образование",
+      "Персоны"
+    ],
     "series": "История Российского государства.",
     "name": "Борис Годунов",
     "shape": {
@@ -7021,6 +7137,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/13041.aspx",
     "categories": [
       "Культура и искусство",
+      "Персоны",
       "Религия"
     ],
     "series": "100 лет Государственному Русскому музею.",
@@ -7039,6 +7156,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/13041.aspx",
     "categories": [
       "Культура и искусство",
+      "Персоны",
       "Религия"
     ],
     "series": "100 лет Государственному Русскому музею.",
@@ -7057,6 +7175,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/13041.aspx",
     "categories": [
       "Культура и искусство",
+      "Персоны",
       "Религия"
     ],
     "series": "100 лет Государственному Русскому музею.",
@@ -7075,6 +7194,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/13041.aspx",
     "categories": [
       "Культура и искусство",
+      "Персоны",
       "Религия"
     ],
     "series": "100 лет Государственному Русскому музею.",
@@ -7094,6 +7214,7 @@
     "categories": [
       "Культура и искусство",
       "Международное сотрудничество",
+      "Персоны",
       "Серии"
     ],
     "name": "А.С. Пушкин. \"Eвгений Онегин\".",
@@ -8461,7 +8582,8 @@
     "year": 1999,
     "page": "https://rusmarka.ru/catalog/marki/position/13071.aspx",
     "categories": [
-      "История"
+      "История",
+      "Персоны"
     ],
     "name": "200-летие Средиземноморского похода русской эскадры под командованием Ф.Ф. Ушакова.",
     "shape": {
@@ -8619,6 +8741,7 @@
     "year": 1999,
     "page": "https://rusmarka.ru/catalog/marki/position/13075.aspx",
     "categories": [
+      "История",
       "Космос и астрономия"
     ],
     "name": "Исследования космического пространства.",
@@ -13947,7 +14070,9 @@
     "value": 4,
     "year": 2002,
     "page": "https://rusmarka.ru/catalog/marki/position/13169.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. Александр I (1777-1825).",
     "name": "Александр I на фоне Петропавловской крепости",
     "shape": {
@@ -13962,7 +14087,9 @@
     "value": 4,
     "year": 2002,
     "page": "https://rusmarka.ru/catalog/marki/position/13169.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. Александр I (1777-1825).",
     "name": "Александр I и М.М. Сперанский",
     "shape": {
@@ -13977,7 +14104,9 @@
     "value": 7,
     "year": 2002,
     "page": "https://rusmarka.ru/catalog/marki/position/13169.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. Александр I (1777-1825).",
     "name": "Александр I и Н.М. Карамзин",
     "shape": {
@@ -13992,7 +14121,9 @@
     "value": 7,
     "year": 2002,
     "page": "https://rusmarka.ru/catalog/marki/position/13169.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. Александр I (1777-1825).",
     "name": "Въезд русских войск в Париж в 1814 году",
     "shape": {
@@ -14007,7 +14138,9 @@
     "value": 10,
     "year": 2002,
     "page": "https://rusmarka.ru/catalog/marki/position/13169.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. Александр I (1777-1825).",
     "name": "Портрет Александра I",
     "shape": {
@@ -16220,7 +16353,9 @@
     "value": 6,
     "year": 2004,
     "page": "https://rusmarka.ru/catalog/marki/position/13224.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. 275 лет со дня рождения Екатерины II, императрицы.",
     "name": "Екатерина II в кабинете у М.В. Ломоносова",
     "shape": {
@@ -16235,7 +16370,9 @@
     "value": 7,
     "year": 2004,
     "page": "https://rusmarka.ru/catalog/marki/position/13224.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. 275 лет со дня рождения Екатерины II, императрицы.",
     "name": "Пожертвование средств на нужды просвещения и милосердия",
     "shape": {
@@ -16250,7 +16387,9 @@
     "value": 8,
     "year": 2004,
     "page": "https://rusmarka.ru/catalog/marki/position/13224.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. 275 лет со дня рождения Екатерины II, императрицы.",
     "name": "На заседании комиссии в Московском Кремле",
     "shape": {
@@ -16265,7 +16404,9 @@
     "value": 9,
     "year": 2004,
     "page": "https://rusmarka.ru/catalog/marki/position/13224.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. 275 лет со дня рождения Екатерины II, императрицы.",
     "name": "Екатерина II в Инкерманском дворце в Крыму",
     "shape": {
@@ -16280,7 +16421,9 @@
     "value": 15,
     "year": 2004,
     "page": "https://rusmarka.ru/catalog/marki/position/13224.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. 275 лет со дня рождения Екатерины II, императрицы.",
     "name": "Императрица Екатерина II (1729-1796), Перф. Рам.12:12½; размер 70×90 мм.",
     "shape": {
@@ -16854,7 +16997,9 @@
     "value": 10,
     "year": 2004,
     "page": "https://rusmarka.ru/catalog/marki/position/13241.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. 250 лет со дня рождения Павла I, российского императора.",
     "name": "Павел I - государственный деятель",
     "shape": {
@@ -16869,7 +17014,9 @@
     "value": 100,
     "year": 2004,
     "page": "https://rusmarka.ru/catalog/marki/position/13241.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. 250 лет со дня рождения Павла I, российского императора.",
     "name": "Магистр Мальтийского Ордена",
     "shape": {
@@ -16884,7 +17031,9 @@
     "value": 20,
     "year": 2004,
     "page": "https://rusmarka.ru/catalog/marki/position/13241.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "series": "История Российского государства. 250 лет со дня рождения Павла I, российского императора.",
     "name": "Портрет Павла I",
     "shape": {
@@ -17537,7 +17686,9 @@
     "value": 25,
     "year": 2005,
     "page": "https://rusmarka.ru/catalog/marki/position/13256.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "name": "История Российского государства. Александр II (1818-1881), император.",
     "shape": {
       "type": "rect",
@@ -19138,7 +19289,9 @@
     "value": 25,
     "year": 2006,
     "page": "https://rusmarka.ru/catalog/marki/position/13294.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "name": "История Российского государства. Александр III (1845-1894), император.",
     "shape": {
       "type": "rect",
@@ -20872,6 +21025,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/13354.aspx",
     "categories": [
       "Наука и образование",
+      "Персоны",
       "Серии"
     ],
     "name": "\"Лауреаты Нобелевской премии\". 100 лет со дня рождения Л.Д. Ландау (1908-1968).",
@@ -20889,6 +21043,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/13355.aspx",
     "categories": [
       "Наука и образование",
+      "Персоны",
       "Серии"
     ],
     "name": "\"Лауреаты Нобелевской премии\". 100 лет со дня рождения И.М. Франка (1908-1990), физика.",
@@ -21220,7 +21375,9 @@
     "value": 35,
     "year": 2008,
     "page": "https://rusmarka.ru/catalog/marki/position/13371.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "name": "История Российского государства. Николай I (1796-1855), император.",
     "shape": {
       "type": "rect",
@@ -22530,7 +22687,9 @@
     "value": 35,
     "year": 2009,
     "page": "https://rusmarka.ru/catalog/marki/position/13401.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "name": "История Российского государства. 325 лет со дня рождения Екатерины I (1684-1727).",
     "shape": {
       "type": "rect",
@@ -23488,7 +23647,9 @@
     "value": 40,
     "year": 2009,
     "page": "https://rusmarka.ru/catalog/marki/position/19996.aspx",
-    "categories": [],
+    "categories": [
+      "Персоны"
+    ],
     "name": "История Российского государства. 300 лет со дня рождения Елизаветы Петровны (1709-1761), императрицы.",
     "shape": {
       "type": "rect",
@@ -29054,7 +29215,8 @@
     "year": 2013,
     "page": "https://rusmarka.ru/catalog/marki/position/25584.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Серии"
     ],
     "series": "Декоративно-прикладное искусство России. Платки",
     "name": "Карабаново",
@@ -29070,7 +29232,8 @@
     "year": 2013,
     "page": "https://rusmarka.ru/catalog/marki/position/25584.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Серии"
     ],
     "series": "Декоративно-прикладное искусство России. Платки",
     "name": "Москва. Трехгорная мануфактура",
@@ -29086,7 +29249,8 @@
     "year": 2013,
     "page": "https://rusmarka.ru/catalog/marki/position/25584.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Серии"
     ],
     "series": "Декоративно-прикладное искусство России. Платки",
     "name": "Оренбург. Пуховый платок",
@@ -29102,7 +29266,8 @@
     "year": 2013,
     "page": "https://rusmarka.ru/catalog/marki/position/25584.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Серии"
     ],
     "series": "Декоративно-прикладное искусство России. Платки",
     "name": "Павлово-Посад",
@@ -30730,7 +30895,9 @@
     "year": 2014,
     "page": "https://rusmarka.ru/catalog/marki/position/27026.aspx",
     "categories": [
+      "Военная техника",
       "История",
+      "Персоны",
       "Праздники",
       "Серии"
     ],
@@ -30749,7 +30916,9 @@
     "year": 2014,
     "page": "https://rusmarka.ru/catalog/marki/position/27026.aspx",
     "categories": [
+      "Военная техника",
       "История",
+      "Персоны",
       "Праздники",
       "Серии"
     ],
@@ -30768,7 +30937,9 @@
     "year": 2014,
     "page": "https://rusmarka.ru/catalog/marki/position/27026.aspx",
     "categories": [
+      "Военная техника",
       "История",
+      "Персоны",
       "Праздники",
       "Серии"
     ],
@@ -30787,7 +30958,9 @@
     "year": 2014,
     "page": "https://rusmarka.ru/catalog/marki/position/27026.aspx",
     "categories": [
+      "Военная техника",
       "История",
+      "Персоны",
       "Праздники",
       "Серии"
     ],
@@ -36059,6 +36232,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/30683.aspx",
     "categories": [
       "Наука и образование",
+      "Персоны",
       "Серии"
     ],
     "name": "100 лет со дня рождения А.М. Прохорова (1916–2002),  физика, лауреата Нобелевской премии",
@@ -37621,7 +37795,8 @@
     "page": "https://rusmarka.ru/catalog/marki/position/31891.aspx",
     "categories": [
       "Государство и власть",
-      "Регионы"
+      "Регионы",
+      "Серии"
     ],
     "name": "Гербы субъектов и городов РФ. Калининградская область",
     "shape": {
@@ -57259,7 +57434,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44114.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Серии"
     ],
     "name": "Серия «Культурное наследие России». Дача К.А. Коровина в д. Охотино. Музей-заповедник В.Д. Поленова. Музей-усадьба И.Е. Репина «Пенаты» в п. Репино. № 3350 \"Дача К.А. Коровина в д. Охотино Ярославской области\".",
@@ -57278,7 +57452,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44114.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Серии"
     ],
     "name": "Серия «Культурное наследие России». Дача К.А. Коровина в д. Охотино. Музей-заповедник В.Д. Поленова. Музей-усадьба И.Е. Репина «Пенаты» в п. Репино. № 3351 \"Музей-заповедник В.Д. Поленова в Тульской области\".",
@@ -57297,7 +57470,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44114.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Серии"
     ],
     "name": "Серия «Культурное наследие России». Дача К.А. Коровина в д. Охотино. Музей-заповедник В.Д. Поленова. Музей-усадьба И.Е. Репина «Пенаты» в п. Репино. № 3352 \"Музей-усадьба И.Е. Репина «Пенаты» в п. Репино, Санкт-Петербург\".",
@@ -57317,8 +57489,7 @@
     "categories": [
       "Государство и власть",
       "Международное сотрудничество",
-      "Наука и образование",
-      "Новинки"
+      "Наука и образование"
     ],
     "name": "Ежегодная международная просветительская акция «Географический диктант»",
     "shape": {
@@ -57335,7 +57506,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44124.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Регионы",
       "Серии"
     ],
@@ -57355,7 +57525,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44198.aspx",
     "categories": [
       "Наука и образование",
-      "Новинки",
       "Персоны"
     ],
     "name": "Ф.Г. Углов (1904–2008), хирург, писатель, общественный деятель, профессор",
@@ -57373,7 +57542,6 @@
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44206.aspx",
     "categories": [
-      "Новинки",
       "Праздники"
     ],
     "name": "С Новым годом! Лисичка с письмом",
@@ -57391,7 +57559,6 @@
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44207.aspx",
     "categories": [
-      "Новинки",
       "Праздники"
     ],
     "name": "С Новым годом! Снегурочка с самоваром",
@@ -57409,8 +57576,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44220.aspx",
     "categories": [
       "Государство и власть",
-      "Дополненная реальность",
-      "Новинки"
+      "Дополненная реальность"
     ],
     "name": "Волонтёрское движение Российской Федерации",
     "shape": {
@@ -57428,8 +57594,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44242.aspx",
     "categories": [
       "История",
-      "Международное сотрудничество",
-      "Новинки"
+      "Международное сотрудничество"
     ],
     "name": "Совместный выпуск Российской Федерации и Республики Беларусь. 25 лет подписанию договора о создании Союзного государства",
     "shape": {
@@ -57447,7 +57612,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44246.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Серии"
     ],
     "name": "Сокровища музеев России. Государственный Эрмитаж",
@@ -57466,7 +57630,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57486,7 +57649,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57506,7 +57668,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57526,7 +57687,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57546,7 +57706,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57566,7 +57725,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57586,7 +57744,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57606,7 +57763,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57626,7 +57782,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57646,7 +57801,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57667,7 +57821,6 @@
     "categories": [
       "Военная техника",
       "Государство и власть",
-      "Новинки",
       "Природа",
       "Туризм и отдых"
     ],
@@ -57686,7 +57839,6 @@
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44260.aspx",
     "categories": [
-      "Новинки",
       "Персоны"
     ],
     "name": "Н.М. Козлов (1926–1983), военачальник, Герой Советского Союза",
@@ -57704,7 +57856,6 @@
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44286.aspx",
     "categories": [
-      "Новинки",
       "Религия",
       "Серии"
     ],
@@ -57723,8 +57874,7 @@
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44347.aspx",
     "categories": [
-      "Культура и искусство",
-      "Новинки"
+      "Культура и искусство"
     ],
     "name": "200 лет жостовскому народному промыслу",
     "shape": {
@@ -57741,7 +57891,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44349.aspx",
     "categories": [
       "История",
-      "Новинки",
       "Праздники",
       "Регионы"
     ],
@@ -57761,7 +57910,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44355.aspx",
     "categories": [
       "Наука и образование",
-      "Новинки",
       "Персоны"
     ],
     "name": "175 лет со дня рождения С.В. Ковалевской (1850–1891), математика, механика",
@@ -57780,7 +57928,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44366.aspx",
     "categories": [
       "Наука и образование",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57800,7 +57947,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44375.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Регионы",
       "Серии",
       "Туризм и отдых"
@@ -57821,7 +57967,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44375.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Регионы",
       "Серии",
       "Туризм и отдых"
@@ -57842,7 +57987,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44375.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Регионы",
       "Серии",
       "Туризм и отдых"
@@ -57865,7 +58009,6 @@
       "История",
       "Культура и искусство",
       "Наука и образование",
-      "Новинки",
       "Регионы"
     ],
     "name": "Московский государственный университет имени М.В. Ломоносова",
@@ -57884,7 +58027,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44407.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57905,7 +58047,6 @@
     "categories": [
       "История",
       "Наука и образование",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -57925,7 +58066,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44455.aspx",
     "categories": [
       "История",
-      "Новинки",
       "Природа",
       "Серии",
       "Фауна"
@@ -57946,7 +58086,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44455.aspx",
     "categories": [
       "История",
-      "Новинки",
       "Природа",
       "Серии",
       "Фауна"
@@ -57967,7 +58106,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44455.aspx",
     "categories": [
       "История",
-      "Новинки",
       "Природа",
       "Серии",
       "Фауна"
@@ -57988,7 +58126,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44455.aspx",
     "categories": [
       "История",
-      "Новинки",
       "Природа",
       "Серии",
       "Фауна"
@@ -58009,7 +58146,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44459.aspx",
     "categories": [
       "Государство и власть",
-      "Новинки",
       "Серии"
     ],
     "name": "Серия «Государственные награды Российской Федерации». Орден «За доблестный труд»",
@@ -58027,7 +58163,6 @@
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44474.aspx",
     "categories": [
-      "Новинки",
       "Природа",
       "Серии",
       "Туризм и отдых"
@@ -58047,7 +58182,6 @@
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44478.aspx",
     "categories": [
-      "Новинки",
       "Спорт"
     ],
     "name": "100 лет футбольному клубу «Зенит»",
@@ -58066,7 +58200,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44535.aspx",
     "categories": [
       "Наука и образование",
-      "Новинки",
       "Персоны"
     ],
     "name": "200 лет со дня рождения А.Ф. Можайского (1825–1890), изобретателя, военного деятеля",
@@ -58084,7 +58217,6 @@
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44537.aspx",
     "categories": [
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -58103,7 +58235,6 @@
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44537.aspx",
     "categories": [
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -58123,7 +58254,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44573.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Персоны"
     ],
     "name": "100 лет со дня рождения И.М. Смоктуновского (1925–1994), актёра, народного артиста СССР",
@@ -58142,7 +58272,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44590.aspx",
     "categories": [
       "История",
-      "Новинки",
       "Природа",
       "Серии",
       "Флора"
@@ -58163,7 +58292,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44590.aspx",
     "categories": [
       "История",
-      "Новинки",
       "Природа",
       "Серии",
       "Флора"
@@ -58184,7 +58312,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44590.aspx",
     "categories": [
       "История",
-      "Новинки",
       "Природа",
       "Серии",
       "Флора"
@@ -58205,7 +58332,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44590.aspx",
     "categories": [
       "История",
-      "Новинки",
       "Природа",
       "Серии",
       "Флора"
@@ -58226,7 +58352,6 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44621.aspx",
     "categories": [
       "Культура и искусство",
-      "Новинки",
       "Персоны",
       "Серии"
     ],
@@ -58245,7 +58370,6 @@
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44533.aspx",
     "categories": [
-      "Новинки",
       "Стандартные и тарифные марки"
     ],
     "name": "Художественная марка «200 рублей»",
@@ -58264,8 +58388,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/44613.aspx",
     "categories": [
       "Государство и власть",
-      "Наука и образование",
-      "Новинки"
+      "Наука и образование"
     ],
     "name": "Военная академия материально-технического обеспечения имени генерала армии А.В. Хрулёва",
     "shape": {
@@ -58581,6 +58704,7 @@
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44820.aspx",
     "categories": [
+      "Дополненная реальность",
       "История",
       "Культура и искусство",
       "Новинки",
@@ -58603,6 +58727,7 @@
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44820.aspx",
     "categories": [
+      "Дополненная реальность",
       "История",
       "Культура и искусство",
       "Новинки",
@@ -58625,6 +58750,7 @@
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44820.aspx",
     "categories": [
+      "Дополненная реальность",
       "История",
       "Культура и искусство",
       "Новинки",
@@ -58647,6 +58773,7 @@
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44820.aspx",
     "categories": [
+      "Дополненная реальность",
       "История",
       "Культура и искусство",
       "Новинки",
@@ -58785,6 +58912,666 @@
       "Серии"
     ],
     "name": "Серия «Кавалеры ордена \"За заслуги перед Отечеством\"». 100 лет со дня рождения К.Ю. Лаврова (1925–2007), актёра, народного артиста СССР",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3449,
+    "image": "images/3449.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45062.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Международное сотрудничество",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Совместный выпуск Российской Федерации и Доминиканской Республики. К 80-летию установления дипломатических отношений. Декоративно-прикладное искусство. Куклы. № 3449 \"Русская национальная кукла. Курская область\".",
+    "shape": {
+      "type": "rect",
+      "w": 30,
+      "h": 42,
+      "originalText": "30 × 42 мм"
+    }
+  },
+  {
+    "id": 3450,
+    "image": "images/3450.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45062.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Международное сотрудничество",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Совместный выпуск Российской Федерации и Доминиканской Республики. К 80-летию установления дипломатических отношений. Декоративно-прикладное искусство. Куклы. № 3450 \"Доминиканская кукла Лиме\".",
+    "shape": {
+      "type": "rect",
+      "w": 30,
+      "h": 42,
+      "originalText": "30 × 42 мм"
+    }
+  },
+  {
+    "id": 3451,
+    "image": "images/3451.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45066.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Регионы",
+      "Серии"
+    ],
+    "name": "Серия «Маяки России». 150 лет Кыз-Аульскому маяку. 125 лет Сетьнаволокскому маяку. № 3451 \"150 лет Кыз-Аульскому маяку\".",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3452,
+    "image": "images/3452.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45066.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Регионы",
+      "Серии"
+    ],
+    "name": "Серия «Маяки России». 150 лет Кыз-Аульскому маяку. 125 лет Сетьнаволокскому маяку. № 3452 \"125 лет Сетьнаволокскому маяку\".",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3453,
+    "image": "images/3453.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45071.aspx",
+    "categories": [
+      "Государство и власть",
+      "Наука и образование",
+      "Новинки"
+    ],
+    "name": "Образовательный центр «Сириус»",
+    "shape": {
+      "type": "rect",
+      "w": 58,
+      "h": 26,
+      "originalText": "58 × 26 мм"
+    }
+  },
+  {
+    "id": 3454,
+    "image": "images/3454.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45114.aspx",
+    "categories": [
+      "Государство и власть",
+      "История",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Полные кавалеры ордена Славы — Герои Советского Союза. А.В. Алёшин (1905–1974), И.Г. Драченко (1922–1994), П.Х. Дубинда (1914–1992), Н.И. Кузнецов (1922–2008). № 3454 \"А.В. Алёшин (1905–1974)\".",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3455,
+    "image": "images/3455.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45114.aspx",
+    "categories": [
+      "Государство и власть",
+      "История",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Полные кавалеры ордена Славы — Герои Советского Союза. А.В. Алёшин (1905–1974), И.Г. Драченко (1922–1994), П.Х. Дубинда (1914–1992), Н.И. Кузнецов (1922–2008). № 3455 \"И.Г. Драченко (1922–1994)\".",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3456,
+    "image": "images/3456.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45114.aspx",
+    "categories": [
+      "Государство и власть",
+      "История",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Полные кавалеры ордена Славы — Герои Советского Союза. А.В. Алёшин (1905–1974), И.Г. Драченко (1922–1994), П.Х. Дубинда (1914–1992), Н.И. Кузнецов (1922–2008). № 3456 \"П.Х. Дубинда (1914–1992)\".",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3457,
+    "image": "images/3457.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45114.aspx",
+    "categories": [
+      "Государство и власть",
+      "История",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Полные кавалеры ордена Славы — Герои Советского Союза. А.В. Алёшин (1905–1974), И.Г. Драченко (1922–1994), П.Х. Дубинда (1914–1992), Н.И. Кузнецов (1922–2008). № 3457 \"Н.И. Кузнецов (1922–2008)\".",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3458,
+    "image": "images/3458.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45116.aspx",
+    "categories": [
+      "Новинки",
+      "Регионы",
+      "Религия",
+      "Серии"
+    ],
+    "name": "Серия «Монастыри Русской православной церкви». Горнальский Свято-Николаевский Белогорский мужской монастырь. Рыльский Свято-Николаевский мужской монастырь. № 3458 \"Горнальский Свято-Николаевский Белогорский мужской монастырь\".",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
+  },
+  {
+    "id": 3459,
+    "image": "images/3459.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45116.aspx",
+    "categories": [
+      "Новинки",
+      "Регионы",
+      "Религия",
+      "Серии"
+    ],
+    "name": "Серия «Монастыри Русской православной церкви». Горнальский Свято-Николаевский Белогорский мужской монастырь. Рыльский Свято-Николаевский мужской монастырь. № 3459 \"Рыльский Свято-Николаевский мужской монастырь\".",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
+  },
+  {
+    "id": 3460,
+    "image": "images/3460.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45120.aspx",
+    "categories": [
+      "История",
+      "Космос и астрономия",
+      "Международное сотрудничество",
+      "Наука и образование",
+      "Новинки"
+    ],
+    "name": "50 лет совместному полёту космических кораблей «Союз» и «Аполлон»",
+    "shape": {
+      "type": "circle",
+      "d": 30,
+      "originalText": "круглая, диаметр 30 мм"
+    }
+  },
+  {
+    "id": 3461,
+    "image": "images/3461.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45131.aspx",
+    "categories": [
+      "Государство и власть",
+      "Новинки"
+    ],
+    "name": "325 лет Службам тыла Вооружённых сил России",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3462,
+    "image": "images/3462.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45157.aspx",
+    "categories": [
+      "История",
+      "Наука и образование",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Серия «История российской дипломатии». 400 лет со дня рождения А.С. Матвеева (1625–1682), главы Посольского и Малороссийского приказов",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3463,
+    "image": null,
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45162.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Природа",
+      "Промышленность",
+      "Фауна"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3464,
+    "image": null,
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45162.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Природа",
+      "Промышленность",
+      "Фауна"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3465,
+    "image": "images/3465-3468.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45164.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Регионы"
+    ],
+    "name": "Архитектурное наследие России. Памятники архитектуры Нижегородской области. № 3465-3468 квартблок.",
+    "shape": {
+      "type": "rect",
+      "w": 40,
+      "h": 28,
+      "originalText": "40 × 28 мм"
+    }
+  },
+  {
+    "id": 3466,
+    "image": "images/3465-3468.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45164.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Регионы"
+    ],
+    "name": "Архитектурное наследие России. Памятники архитектуры Нижегородской области. № 3465-3468 квартблок.",
+    "shape": {
+      "type": "rect",
+      "w": 40,
+      "h": 28,
+      "originalText": "40 × 28 мм"
+    }
+  },
+  {
+    "id": 3467,
+    "image": "images/3465-3468.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45164.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Регионы"
+    ],
+    "name": "Архитектурное наследие России. Памятники архитектуры Нижегородской области. № 3465-3468 квартблок.",
+    "shape": {
+      "type": "rect",
+      "w": 40,
+      "h": 28,
+      "originalText": "40 × 28 мм"
+    }
+  },
+  {
+    "id": 3468,
+    "image": "images/3465-3468.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45164.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Регионы"
+    ],
+    "name": "Архитектурное наследие России. Памятники архитектуры Нижегородской области. № 3465-3468 квартблок.",
+    "shape": {
+      "type": "rect",
+      "w": 40,
+      "h": 28,
+      "originalText": "40 × 28 мм"
+    }
+  },
+  {
+    "id": 3469,
+    "image": "images/3469.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45168.aspx",
+    "categories": [
+      "Государство и власть",
+      "История",
+      "Новинки",
+      "Праздники",
+      "Регионы"
+    ],
+    "name": "100 лет г. Пушкино Московской области",
+    "shape": {
+      "type": "rect",
+      "w": 18.5,
+      "h": 26,
+      "originalText": "18,5 × 26 мм"
+    }
+  },
+  {
+    "id": 3470,
+    "image": "images/3470.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45193.aspx",
+    "categories": [
+      "История",
+      "Международное сотрудничество",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Совместный выпуск Российской Федерации и Корейской Народно-Демократической Республики. Архитектура",
+    "shape": {
+      "type": "rect",
+      "w": 30,
+      "h": 42,
+      "originalText": "30 × 42 мм"
+    }
+  },
+  {
+    "id": 3471,
+    "image": "images/3471.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45205.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Религия"
+    ],
+    "name": "25 лет Великому освящению Храма Христа Спасителя",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 50,
+      "originalText": "37 × 50 мм"
+    }
+  },
+  {
+    "id": 3472,
+    "image": "images/3472.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45207.aspx",
+    "categories": [
+      "Дополненная реальность",
+      "История",
+      "Культура и искусство",
+      "Международное сотрудничество",
+      "Новинки",
+      "Регионы",
+      "Серии"
+    ],
+    "name": "Совместный выпуск Администраций связи стран – членов РСС. Памятники Российского военно-исторического общества. Мемориальный комплекс «Курская битва»",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
+  },
+  {
+    "id": 3473,
+    "image": "images/3473.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45298.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Праздники",
+      "Промышленность",
+      "Регионы"
+    ],
+    "name": "50 лет г. Когалыму Ханты-Мансийского автономного округа – Югры",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3474,
+    "image": "images/3474.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45300.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Города трудовой доблести. Казань, Магнитогорск Челябинской области, Пенза, Пермь, Томск, Тюмень. № 3474 \"Казань. Памятник труженикам тыла. 2019\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3475,
+    "image": "images/3475.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45300.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Города трудовой доблести. Казань, Магнитогорск Челябинской области, Пенза, Пермь, Томск, Тюмень. № 3475 \"Магнитогорск. Памятник «Тыл — фронту». 1979\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3476,
+    "image": "images/3476.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45300.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Города трудовой доблести. Казань, Магнитогорск Челябинской области, Пенза, Пермь, Томск, Тюмень. № 3476 \"Пенза. Монумент воинской и трудовой славы. 1975\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3477,
+    "image": "images/3477.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45300.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Города трудовой доблести. Казань, Магнитогорск Челябинской области, Пенза, Пермь, Томск, Тюмень. № 3477 \"Пермь. Памятник героям фронта и тыла. 1985\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3478,
+    "image": "images/3478.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45300.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Города трудовой доблести. Казань, Магнитогорск Челябинской области, Пенза, Пермь, Томск, Тюмень. № 3478 \"Томск. Памятник женщине и подростку, ковавшим Победу в тылу. 2014 г.\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3479,
+    "image": "images/3479.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45300.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Города трудовой доблести. Казань, Магнитогорск Челябинской области, Пенза, Пермь, Томск, Тюмень. № 3479 \"Тюмень. Скульптурная композиция, посвящённая труженикам тыла во время Великой Отечественной войны 1941–1945 гг. 2010\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3480,
+    "image": "images/3480.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45342.aspx",
+    "categories": [
+      "Международное сотрудничество",
+      "Новинки",
+      "Персоны"
+    ],
+    "name": "300 лет со дня рождения П.А. Румянцева (1725–1796), полководца, военного теоретика",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3481,
+    "image": "images/3481.png",
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45302.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Персоны"
+    ],
+    "name": "100 лет со дня рождения А.Н. Стругацкого (1925–1991), писателя",
     "shape": {
       "type": "rect",
       "w": 42,
