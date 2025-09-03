@@ -61140,5 +61140,25 @@
       "h": 30,
       "originalText": "42 × 30 мм"
     }
+  },
+  {
+    "id": 3482,
+    "image": "images/3482.png",
+    "value": 33,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45447.aspx",
+    "categories": [
+      "Международное сотрудничество",
+      "Наука и образование",
+      "Новинки",
+      "Регионы"
+    ],
+    "name": "X Восточный экономический форум в г. Владивостоке",
+    "shape": {
+      "type": "rect",
+      "w": 29,
+      "h": 36.5,
+      "originalText": "29 × 36,5 мм"
+    }
   }
 ]
