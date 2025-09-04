@@ -61160,5 +61160,24 @@
       "h": 36.5,
       "originalText": "29 × 36,5 мм"
     }
+  },
+  {
+    "id": 3483,
+    "image": "images/3483.png",
+    "value": 55,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/45584.aspx",
+    "categories": [
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Серия «Герои Российской Федерации». М.Е. Гудков (1983–2025), дважды Герой Российской Федерации",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
   }
 ]
